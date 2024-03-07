@@ -1,0 +1,18 @@
+.home-container {
+  min-height: 100vh;
+}
+.home-bottom-container {
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.home-img {
+  width: 400px;
+  cursor: pointer;
+}
+.dark-theme {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,31 @@
+.nav-bar-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 45px;
+}
+.company-logo {
+  width: 45px;
+}
+.nav-menu-list {
+  display: flex;
+  align-items: center;
+}
+.nav-menu-item {
+  list-style-type: none;
+  margin: 0px 12px;
+  font-size: 24px;
+  font-weight: 500;
+}
+.link-item {
+  text-decoration: none;
+  color: inherit;
+}
+.dark-nav-bar {
+  background-color: #333333;
+  color: white;
+}
+.theme-button {
+  background-color: transparent;
+  border: none;
+}
